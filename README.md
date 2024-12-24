@@ -11,6 +11,8 @@ Download the [dataset](https://drive.google.com/file/d/1PZWa6H0i1PCH9zuYcIh5Ouk_
 
 Use `python train.py` to train the model
 
+Blog [Linnk](https://graspcoding.com/an-intelligent-autopilot-system-that-learns-drive-ai-project/)
+
 Use `python run.py` to run the model on a live webcam feed
 
 Use `python run_dataset.py` to run the model on the dataset
